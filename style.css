@@ -1,0 +1,28 @@
+body {
+  background: #C4F4F6;
+  text-align: center;
+  min-width: 320px;
+}
+
+#form-outer {
+  background: linear-gradient(68deg, #DFC4F6, #F6C6C4, #DBF6C4);
+  margin: 0 auto;
+  width: 60%;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+ul {
+  list-style: none;
+}
+li {
+  padding: 5px;
+}
+
+#survey-form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+
